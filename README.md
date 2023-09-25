@@ -9,6 +9,7 @@
 ##  Test models
 
 To test models, we can run this example of commands : 
+![382717240_1771902153243726_6030898185192001056_n](https://github.com/Ayoub-traf/Match-Generator/assets/76260962/e172cfcf-ec5b-48bd-8a3b-722f1aef1401)
 
 The match duration (time) must be greater than 0 and less than or equal to 120.
 
