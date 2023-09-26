@@ -24,3 +24,7 @@ If --output not specified, the result will be saved in generated_match.json in t
 Here is the link of the notebook used for data analytics and model training :
 
 https://colab.research.google.com/drive/1m8Ic4T-q62RKHLM5UlAngsnfr4_CATLD
+
+## Algorithm explanation
+
+For more details about the algorithm and the methodology used check the pdf in the git repository : "Generative AI recreating football game BENABOU.pdf"
